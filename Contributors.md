@@ -1,14 +1,15 @@
 # Contributors
-
-\-- [6D-pixel](https://github.com/6D-pixel) 💪😠
-* [Thomas Bui](https://github.com/tbui468)
-* [Sluchainost](https://github.com/Sluchainost)
-* [duma12322](https://github.com/duma12322)
-* [yelianny30](https://github.com/yelianny30)
-* [Anderson3012](https://github.com/Anderson3012)
-- [cesaloz]()
-- [eucarys]()
-- [CesarGraterol](https://github.com/cdga2004)
+-- [6D-pixel](https://github.com/6D-pixel) 💪😠
+- [Thomas Bui](https://github.com/tbui468)
+- [Sluchainost](https://github.com/Sluchainost)
+- [duma12322](https://github.com/duma12322)
+cesaloz
+- [yelianny30](https://github.com/yelianny30)
+- [Anderson3012](https://github.com/Anderson3012)
+  cesaloz
+  eucarys
+=[CesarGraterol](https://github.com/cdga2004)
+- [AronAcosta](https://github.com/dante-dacosta)
 - [Luis](https://github.com/LuisAngelLinarez)
 - [janet](https://github.com/Ja-n3t-777)
 - [Yuliana250403](https://github.com/Yuliana250403)
