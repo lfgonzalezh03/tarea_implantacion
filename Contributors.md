@@ -64,6 +64,7 @@ cesaloz
 - [Shairacc](https://github.com/Shairacc)
 - [yelianny30](https://github.com/yelianny30)
 - [gomeztorresgomez](https://github.com/gomeztorresgomez)
+- [Luis Felipe](https://github.com/lfgonzalezh03)
 - [Edgar Colmenarez](https://github.com/Edgarrr1)
 main
 
